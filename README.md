@@ -80,8 +80,5 @@ T-1
 ```bash
   ros2 run cross_pubsub cross_pubsub
 ```
-## Demo
 
-Insert gif or link to demo
-sds
 
